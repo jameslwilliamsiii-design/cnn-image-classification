@@ -1,4 +1,4 @@
-##Fashion MNIST CNN Classifier
+Fashion MNIST CNN Classifier
 
 This project implements a convolutional neural network (CNN) in TensorFlow/Keras to classify grayscale images from the Fashion MNIST dataset. The dataset includes 70,000 images of clothing items spread across 10 categories.
 
